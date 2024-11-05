@@ -56,6 +56,7 @@ the materials/R&D engineering sector.
 <a id="description-agnps-ink"></a>
 
 Flexible electronics have gained significant attention since the early 20th century, with applications in wearable technology, flexible solar cells, and energy storage. As part of the University of Waterloo NanoRobotics Group (UWNRG), my team is developing a flex PCB printer.  
+
 My primary focus is on researching and synthesizing conductive ink for printing on flexible substrates. I am currently exploring the use of AgNP (nano silver particle) ink, due to its high conductivity and compatibility with non-toxic solvents. Our initial tests will print simple patterns to assess the ink's conductivity, adhesion, and interaction with various flexible substrates. We hope to provide a device than can be used by other design teams and in creating future projects of our own.
 
 
