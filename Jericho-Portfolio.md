@@ -46,6 +46,8 @@ noting significant improvements in product consistency and quality.
 Overall, this project established a strong foundation for my future projects in 
 the materials/R&D engineering sector. 
 
+![titaniaSlides](Assets/titaniaSlides.jpg)
+
 ## AgNPs (nano silver) ink for flexible substrate applications (ongoing)
 
 ### Description
