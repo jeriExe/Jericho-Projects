@@ -2,15 +2,15 @@
 
 ## Table of Contents
 - [Nano-titania based chemical oxygen demand (COD) sensors](#nano-titania-based-chemical-oxygen-demand-cod-sensors)  
-  - [Description](#description-cod-sensors)  
-  - [Testing and Analysis](#testing-and-analysis-cod-sensors)  
-  - [Results](#results-cod-sensors)  
+    - [Description](#description-cod-sensors)  
+    - [Testing and Analysis](#testing-and-analysis-cod-sensors)  
+    - [Results](#results-cod-sensors)  
 
 - [AgNPs (nano silver) ink for flexible substrate applications (ongoing)](#agnps-nano-silver-ink-for-flexible-substrate-applications)  
-  - [Description](#description-agnps-ink)  
+    - [Description](#description-agnps-ink)  
 
 - [Photocatalytic cell manufacturing for research paper (ongoing)](#photocatalytic-cell-manufacturing-for-research-paper)  
-    -[Description](#description-photocatalytic-cell)
+    - [Description](#description-photocatalytic-cell)
 
 
 ## Nano-titania based chemical oxygen demand (COD) sensors
