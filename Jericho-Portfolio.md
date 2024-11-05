@@ -62,4 +62,7 @@ My primary focus is on researching and synthesizing conductive ink for printing 
 ## Photocatalytic cell manufacturing for research paper (ongoing)
 <a id="description-photocatalytic-cell"></a>
 
-Drawing on my experience in producing COD sensors, I am now focused on synthesizing and fabricating photocatalytic cells for PhD students at the university. These cells are designed for use in photoelectrochemical applications, such as pollutant degradation and water splitting, with potential solar energy conversion applications.
+Drawing on my experience in producing COD sensors, I am now focused on synthesizing and fabricating photocatalytic cells for PhD students at the university. These cells are designed for use in photoelectrochemical applications, such as pollutant degradation and water splitting, with potential solar energy conversion applications. The cells are still in the research and interation phase, here's a few iterations:
+
+![Firstset](Assets/photocatalyticCell_2.jpg)
+![Firstset](Assets/photocatalyticCell_1.jpg)
