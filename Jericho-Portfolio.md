@@ -6,10 +6,10 @@
     - [Testing and Analysis](#testing-and-analysis-cod-sensors)  
     - [Results](#results-cod-sensors)  
 
-- [AgNPs (nano silver) ink for flexible substrate applications (ongoing)](#agnps-nano-silver-ink-for-flexible-substrate-applications)  
+- [AgNPs (nano silver) ink for flexible substrate applications (ongoing)](#agnps-nano-silver-ink-for-flexible-substrate-applications-ongoing)  
     - [Description](#description-agnps-ink)  
 
-- [Photocatalytic cell manufacturing for research paper (ongoing)](#photocatalytic-cell-manufacturing-for-research-paper)  
+- [Photocatalytic cell manufacturing for research paper (ongoing)](#photocatalytic-cell-manufacturing-for-research-paper-ongoing)  
     - [Description](#description-photocatalytic-cell)
 
 
